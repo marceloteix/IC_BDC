@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, viewport-fit=cover">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="theme-color" content="#2196f3">
+    <title>Página do Usuário</title>
+    <link rel="stylesheet" href="lib/framework7-bundle.min.css">
+    <link rel="stylesheet" href="./css/usuario.css">
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.0.0/dist/supabase.min.js"></script>
+    <script src="js/supabase.js"></script> 
+    <script src="js/usuario.js"></script> 
+</head>
+<body>
+    <div id="app">
+        <div class="view view-main">
+            <div class="pages">
+                <div data-name="usuario" class="page">
+                    <div class="navbar">
+                        <div class="navbar-inner">
+                            <div class="title" style="margin: auto;">Usuário</div>
+                        </div>
+                    </div>
+                    <div class="page-content">
+                        <div class="block user-info">
+                            <h2>Bem-vindo(a), <span id="userNome"></span></h2>
+                            <p>Nome de Usuário: <span id="userUsername"></span></p>
+                            <p>Email: <span id="userEmail"></span></p>
+                            <button id="contribuicaoStatus" class="button">Verificar Contribuição</button>
+                            <div id="avisoContribuicao" class="aviso-contribuicao">
+                                <p>Sua contribuição está pendente. Por favor, regularize sua situação para continuar utilizando o serviço.</p>
+                            </div>
+                        </div>
+                        <div class="block" id="itensEmprestadosBlock">
+                            <h2>Meus Itens Emprestados</h2>
+                            <ul id="emprestados-list" class="emprestados-list">
+                                <!-- Itens serão adicionados aqui dinamicamente -->
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="lib/framework7-bundle.min.js"></script>
+    <script src="lib/jquery-3.7.0.min.js"></script>
+    <script src="js/usuario.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@1.28.5/dist/umd/supabase.min.js"></script>
+    <!-- Inclua o arquivo JavaScript -->
+    <script src="js/supabase.js"></script>
+</body>
+</html>

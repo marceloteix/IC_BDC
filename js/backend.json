@@ -1,0 +1,288 @@
+[
+    {
+        "id": 1,
+        "imagem": "img/canon.png",
+        "nome": "Câmera",
+        "principal_caracteristica": "NÚMERO PATRIMÔNIO: XXXX",
+        "descricao": "A associada(o) e representante do Empreendimento Econômico Solidário (ESS) denominado: Associação Utopia - Produtos e Serviços para o Bem Viver. Declara que está em dia com sua participação e contribuição financeira obrigatórias (previstas no Artigo 6 e 9 do Regimento Interno) e que receberá, a título de empréstimo, da Associação Utopia este equipamento. Declaro que o equipamento aqui selecionado será vistoriado por mim e que está em perfeito estado no ato do empréstimo. Declaro que li o manual do equipamento (quando houver) e que estou ciente de que eu e o EES do qual faço parte nos responsabilizamos pelo equipamento, reparando qualquer avaria, defeito, uso indevido ou reposição de peça que se faça necessária, antes da devolução, e sem ônus para a Associação Utopia. O equipamento estará liberado(s) para uso a partir do dia da realização deste empréstimo.",
+        "detalhes": [
+            {
+                "NúmerodePatrimônio": "XXXX"
+            }
+        ],
+        "preco": 99.99
+    },
+    {
+        "id": 2,
+        "imagem": "img/microfone.png",
+        "nome": "Microfone",
+        "principal_caracteristica": "NÚMERO PATRIMÔNIO: XXXX",
+        "descricao": "A associada(o) e representante do Empreendimento Econômico Solidário (ESS) denominado: Associação Utopia - Produtos e Serviços para o Bem Viver. Declara que está em dia com sua participação e contribuição financeira obrigatórias (previstas no Artigo 6 e 9 do Regimento Interno) e que receberá, a título de empréstimo, da Associação Utopia este equipamento. Declaro que o equipamento aqui selecionado será vistoriado por mim e que está em perfeito estado no ato do empréstimo. Declaro que li o manual do equipamento (quando houver) e que estou ciente de que eu e o EES do qual faço parte nos responsabilizamos pelo equipamento, reparando qualquer avaria, defeito, uso indevido ou reposição de peça que se faça necessária, antes da devolução, e sem ônus para a Associação Utopia. O equipamento estará liberado(s) para uso a partir do dia da realização deste empréstimo.",
+        "detalhes": [
+            {
+                "NúmerodePatrimônio": "XXXX"
+            }
+        ],
+        "preco": 99.99
+    },
+    {
+        "id": 3,
+        "imagem": "img/bolsa.png",
+        "nome": "Bolsa para câmera",
+        "principal_caracteristica": "NÚMERO PATRIMÔNIO: XXXX",
+        "descricao": "A associada(o) e representante do Empreendimento Econômico Solidário (ESS) denominado: Associação Utopia - Produtos e Serviços para o Bem Viver. Declara que está em dia com sua participação e contribuição financeira obrigatórias (previstas no Artigo 6 e 9 do Regimento Interno) e que receberá, a título de empréstimo, da Associação Utopia este equipamento. Declaro que o equipamento aqui selecionado será vistoriado por mim e que está em perfeito estado no ato do empréstimo. Declaro que li o manual do equipamento (quando houver) e que estou ciente de que eu e o EES do qual faço parte nos responsabilizamos pelo equipamento, reparando qualquer avaria, defeito, uso indevido ou reposição de peça que se faça necessária, antes da devolução, e sem ônus para a Associação Utopia. O equipamento estará liberado(s) para uso a partir do dia da realização deste empréstimo.",
+        "detalhes": [
+            {
+                "NúmerodePatrimônio": "XXXX"
+            }
+        ],
+        "preco": 99.99
+    },
+    {
+        "id": 4,
+        "imagem": "img/iluminador.png",
+        "nome": "Iluminador Led",
+        "principal_caracteristica": "NÚMERO PATRIMÔNIO: XXXX",
+        "descricao": "A associada(o) e representante do Empreendimento Econômico Solidário (ESS) denominado: Associação Utopia - Produtos e Serviços para o Bem Viver. Declara que está em dia com sua participação e contribuição financeira obrigatórias (previstas no Artigo 6 e 9 do Regimento Interno) e que receberá, a título de empréstimo, da Associação Utopia este equipamento. Declaro que o equipamento aqui selecionado será vistoriado por mim e que está em perfeito estado no ato do empréstimo. Declaro que li o manual do equipamento (quando houver) e que estou ciente de que eu e o EES do qual faço parte nos responsabilizamos pelo equipamento, reparando qualquer avaria, defeito, uso indevido ou reposição de peça que se faça necessária, antes da devolução, e sem ônus para a Associação Utopia. O equipamento estará liberado(s) para uso a partir do dia da realização deste empréstimo.",
+        "detalhes": [
+            {
+                "NúmerodePatrimônio": "XXXX"
+            }
+        ],
+        "preco": 99.99
+    },
+    {
+        "id": 5,
+        "imagem": "img/tripe.png",
+        "nome": "Mini Tripé",
+        "principal_caracteristica": "NÚMERO PATRIMÔNIO: XXXX",
+        "descricao": "A associada(o) e representante do Empreendimento Econômico Solidário (ESS) denominado: Associação Utopia - Produtos e Serviços para o Bem Viver. Declara que está em dia com sua participação e contribuição financeira obrigatórias (previstas no Artigo 6 e 9 do Regimento Interno) e que receberá, a título de empréstimo, da Associação Utopia este equipamento. Declaro que o equipamento aqui selecionado será vistoriado por mim e que está em perfeito estado no ato do empréstimo. Declaro que li o manual do equipamento (quando houver) e que estou ciente de que eu e o EES do qual faço parte nos responsabilizamos pelo equipamento, reparando qualquer avaria, defeito, uso indevido ou reposição de peça que se faça necessária, antes da devolução, e sem ônus para a Associação Utopia. O equipamento estará liberado(s) para uso a partir do dia da realização deste empréstimo.",
+        "detalhes": [
+            {
+               "NúmerodePatrimônio": "XXXX"
+            }
+        ],
+        "preco": 99.99
+    },
+    {
+        "id": 6,
+        "imagem": "img/vap.png",
+        "nome": "Lavadora de alta pressão VAP",
+        "principal_caracteristica": "NÚMERO PATRIMÔNIO: XXXX",
+        "descricao": "A associada(o) e representante do Empreendimento Econômico Solidário (ESS) denominado: Associação Utopia - Produtos e Serviços para o Bem Viver. Declara que está em dia com sua participação e contribuição financeira obrigatórias (previstas no Artigo 6 e 9 do Regimento Interno) e que receberá, a título de empréstimo, da Associação Utopia este equipamento. Declaro que o equipamento aqui selecionado será vistoriado por mim e que está em perfeito estado no ato do empréstimo. Declaro que li o manual do equipamento (quando houver) e que estou ciente de que eu e o EES do qual faço parte nos responsabilizamos pelo equipamento, reparando qualquer avaria, defeito, uso indevido ou reposição de peça que se faça necessária, antes da devolução, e sem ônus para a Associação Utopia. O equipamento estará liberado(s) para uso a partir do dia da realização deste empréstimo.",
+        "detalhes": [
+            {
+               "NúmerodePatrimônio": "XXXX"
+            }
+        ],
+        "preco": 99.99
+    },
+    {
+        "id": 7,
+        "imagem": "img/parafusadeira.png",
+        "nome": "Parafusadeira Bosch com caixa e bateria",
+        "principal_caracteristica": "NÚMERO PATRIMÔNIO: XXXX",
+        "descricao": "A associada(o) e representante do Empreendimento Econômico Solidário (ESS) denominado: Associação Utopia - Produtos e Serviços para o Bem Viver. Declara que está em dia com sua participação e contribuição financeira obrigatórias (previstas no Artigo 6 e 9 do Regimento Interno) e que receberá, a título de empréstimo, da Associação Utopia este equipamento. Declaro que o equipamento aqui selecionado será vistoriado por mim e que está em perfeito estado no ato do empréstimo. Declaro que li o manual do equipamento (quando houver) e que estou ciente de que eu e o EES do qual faço parte nos responsabilizamos pelo equipamento, reparando qualquer avaria, defeito, uso indevido ou reposição de peça que se faça necessária, antes da devolução, e sem ônus para a Associação Utopia. O equipamento estará liberado(s) para uso a partir do dia da realização deste empréstimo.",
+        "detalhes": [
+            {
+                "NúmerodePatrimônio": "XXXX"
+            }
+        ],
+        "preco": 99.99
+    },
+    {
+        "id": 8,
+        "imagem": "img/bateria.png",
+        "nome": "Bateria de lítio extra para parafusadeira",
+        "principal_caracteristica": "NÚMERO PATRIMÔNIO: XXXX",
+        "descricao": "A associada(o) e representante do Empreendimento Econômico Solidário (ESS) denominado: Associação Utopia - Produtos e Serviços para o Bem Viver. Declara que está em dia com sua participação e contribuição financeira obrigatórias (previstas no Artigo 6 e 9 do Regimento Interno) e que receberá, a título de empréstimo, da Associação Utopia este equipamento. Declaro que o equipamento aqui selecionado será vistoriado por mim e que está em perfeito estado no ato do empréstimo. Declaro que li o manual do equipamento (quando houver) e que estou ciente de que eu e o EES do qual faço parte nos responsabilizamos pelo equipamento, reparando qualquer avaria, defeito, uso indevido ou reposição de peça que se faça necessária, antes da devolução, e sem ônus para a Associação Utopia. O equipamento estará liberado(s) para uso a partir do dia da realização deste empréstimo.",
+        "detalhes": [
+            {
+                "NúmerodePatrimônio": "XXXX"
+            }
+        ],
+        "preco": 99.99
+    },
+    {
+        "id": 9,
+        "imagem": "img/notebook.png",
+        "nome": "Notebook Lenovo 8gb",
+       "principal_caracteristica": "NÚMERO PATRIMÔNIO: XXXX",
+        "descricao": "A associada(o) e representante do Empreendimento Econômico Solidário (ESS) denominado: Associação Utopia - Produtos e Serviços para o Bem Viver. Declara que está em dia com sua participação e contribuição financeira obrigatórias (previstas no Artigo 6 e 9 do Regimento Interno) e que receberá, a título de empréstimo, da Associação Utopia este equipamento. Declaro que o equipamento aqui selecionado será vistoriado por mim e que está em perfeito estado no ato do empréstimo. Declaro que li o manual do equipamento (quando houver) e que estou ciente de que eu e o EES do qual faço parte nos responsabilizamos pelo equipamento, reparando qualquer avaria, defeito, uso indevido ou reposição de peça que se faça necessária, antes da devolução, e sem ônus para a Associação Utopia. O equipamento estará liberado(s) para uso a partir do dia da realização deste empréstimo.",
+        "detalhes": [
+            {
+                "NúmerodePatrimônio": "XXXX"
+            }
+        ],
+        "preco": 99.99
+    }, 
+    {
+        "id": 10,
+        "imagem": "img/impressora.png",
+        "nome": "Impressora Laser Preto e Branco HP",
+        "principal_caracteristica": "NÚMERO PATRIMÔNIO: XXXX",
+        "descricao": "A associada(o) e representante do Empreendimento Econômico Solidário (ESS) denominado: Associação Utopia - Produtos e Serviços para o Bem Viver. Declara que está em dia com sua participação e contribuição financeira obrigatórias (previstas no Artigo 6 e 9 do Regimento Interno) e que receberá, a título de empréstimo, da Associação Utopia este equipamento. Declaro que o equipamento aqui selecionado será vistoriado por mim e que está em perfeito estado no ato do empréstimo. Declaro que li o manual do equipamento (quando houver) e que estou ciente de que eu e o EES do qual faço parte nos responsabilizamos pelo equipamento, reparando qualquer avaria, defeito, uso indevido ou reposição de peça que se faça necessária, antes da devolução, e sem ônus para a Associação Utopia. O equipamento estará liberado(s) para uso a partir do dia da realização deste empréstimo.",
+        "detalhes": [
+            {
+              "NúmerodePatrimônio": "XXXX"
+            }
+        ],
+        "preco": 99.99
+    },
+    {
+        "id": 11,
+        "imagem": "img/mesa_dobravel.png",
+        "nome": "Mesa Dobrável 1",
+      "principal_caracteristica": "NÚMERO PATRIMÔNIO: XXXX",
+        "descricao": "A associada(o) e representante do Empreendimento Econômico Solidário (ESS) denominado: Associação Utopia - Produtos e Serviços para o Bem Viver. Declara que está em dia com sua participação e contribuição financeira obrigatórias (previstas no Artigo 6 e 9 do Regimento Interno) e que receberá, a título de empréstimo, da Associação Utopia este equipamento. Declaro que o equipamento aqui selecionado será vistoriado por mim e que está em perfeito estado no ato do empréstimo. Declaro que li o manual do equipamento (quando houver) e que estou ciente de que eu e o EES do qual faço parte nos responsabilizamos pelo equipamento, reparando qualquer avaria, defeito, uso indevido ou reposição de peça que se faça necessária, antes da devolução, e sem ônus para a Associação Utopia. O equipamento estará liberado(s) para uso a partir do dia da realização deste empréstimo.",
+        "detalhes": [
+            {
+                "NúmerodePatrimônio": "XXXX"
+            }
+        ],
+        "preco": 99.99
+    },
+    {
+        "id": 12,
+        "imagem": "img/mesa_dobravel.png",
+        "nome": "Mesa Dobrável 2",
+       "principal_caracteristica": "NÚMERO PATRIMÔNIO: XXXX",
+        "descricao": "A associada(o) e representante do Empreendimento Econômico Solidário (ESS) denominado: Associação Utopia - Produtos e Serviços para o Bem Viver. Declara que está em dia com sua participação e contribuição financeira obrigatórias (previstas no Artigo 6 e 9 do Regimento Interno) e que receberá, a título de empréstimo, da Associação Utopia este equipamento. Declaro que o equipamento aqui selecionado será vistoriado por mim e que está em perfeito estado no ato do empréstimo. Declaro que li o manual do equipamento (quando houver) e que estou ciente de que eu e o EES do qual faço parte nos responsabilizamos pelo equipamento, reparando qualquer avaria, defeito, uso indevido ou reposição de peça que se faça necessária, antes da devolução, e sem ônus para a Associação Utopia. O equipamento estará liberado(s) para uso a partir do dia da realização deste empréstimo.",
+        "detalhes": [
+            {
+               "NúmerodePatrimônio": "XXXX"
+            }
+        ],
+        "preco": 99.99
+    },
+    {
+        "id": 13,
+        "imagem": "img/mesa_dobravel.png",
+        "nome": "Mesa Dobrável 3",
+       "principal_caracteristica": "NÚMERO PATRIMÔNIO: XXXX",
+        "descricao": "A associada(o) e representante do Empreendimento Econômico Solidário (ESS) denominado: Associação Utopia - Produtos e Serviços para o Bem Viver. Declara que está em dia com sua participação e contribuição financeira obrigatórias (previstas no Artigo 6 e 9 do Regimento Interno) e que receberá, a título de empréstimo, da Associação Utopia este equipamento. Declaro que o equipamento aqui selecionado será vistoriado por mim e que está em perfeito estado no ato do empréstimo. Declaro que li o manual do equipamento (quando houver) e que estou ciente de que eu e o EES do qual faço parte nos responsabilizamos pelo equipamento, reparando qualquer avaria, defeito, uso indevido ou reposição de peça que se faça necessária, antes da devolução, e sem ônus para a Associação Utopia. O equipamento estará liberado(s) para uso a partir do dia da realização deste empréstimo.",
+        "detalhes": [
+            {
+                "NúmerodePatrimônio": "XXXX"
+            }
+        ],
+        "preco": 99.99
+    },
+    {
+        "id": 14,
+        "imagem": "img/mesa_dobravel.png",
+        "nome": "Mesa Dobrável 4",
+     "principal_caracteristica": "NÚMERO PATRIMÔNIO: XXXX",
+        "descricao": "A associada(o) e representante do Empreendimento Econômico Solidário (ESS) denominado: Associação Utopia - Produtos e Serviços para o Bem Viver. Declara que está em dia com sua participação e contribuição financeira obrigatórias (previstas no Artigo 6 e 9 do Regimento Interno) e que receberá, a título de empréstimo, da Associação Utopia este equipamento. Declaro que o equipamento aqui selecionado será vistoriado por mim e que está em perfeito estado no ato do empréstimo. Declaro que li o manual do equipamento (quando houver) e que estou ciente de que eu e o EES do qual faço parte nos responsabilizamos pelo equipamento, reparando qualquer avaria, defeito, uso indevido ou reposição de peça que se faça necessária, antes da devolução, e sem ônus para a Associação Utopia. O equipamento estará liberado(s) para uso a partir do dia da realização deste empréstimo.",
+        "detalhes": [
+            {
+                "NúmerodePatrimônio": "XXXX"
+            }
+        ],
+        "preco": 99.99
+    },
+    {
+        "id": 15,
+        "imagem": "img/panela.png",
+        "nome": "Panelão Inox 100 litros",
+       "principal_caracteristica": "NÚMERO PATRIMÔNIO: XXXX",
+        "descricao": "A associada(o) e representante do Empreendimento Econômico Solidário (ESS) denominado: Associação Utopia - Produtos e Serviços para o Bem Viver. Declara que está em dia com sua participação e contribuição financeira obrigatórias (previstas no Artigo 6 e 9 do Regimento Interno) e que receberá, a título de empréstimo, da Associação Utopia este equipamento. Declaro que o equipamento aqui selecionado será vistoriado por mim e que está em perfeito estado no ato do empréstimo. Declaro que li o manual do equipamento (quando houver) e que estou ciente de que eu e o EES do qual faço parte nos responsabilizamos pelo equipamento, reparando qualquer avaria, defeito, uso indevido ou reposição de peça que se faça necessária, antes da devolução, e sem ônus para a Associação Utopia. O equipamento estará liberado(s) para uso a partir do dia da realização deste empréstimo.",
+        "detalhes": [
+            {
+                "NúmerodePatrimônio": "XXXX"
+            }
+        ],
+        "preco": 99.99
+    },
+    {
+        "id": 16,
+        "imagem": "img/bici_cesto.png",
+        "nome": "Bicicleta sem marcha com cestinho",
+       "principal_caracteristica": "NÚMERO PATRIMÔNIO: XXXX",
+        "descricao": "A associada(o) e representante do Empreendimento Econômico Solidário (ESS) denominado: Associação Utopia - Produtos e Serviços para o Bem Viver. Declara que está em dia com sua participação e contribuição financeira obrigatórias (previstas no Artigo 6 e 9 do Regimento Interno) e que receberá, a título de empréstimo, da Associação Utopia este equipamento. Declaro que o equipamento aqui selecionado será vistoriado por mim e que está em perfeito estado no ato do empréstimo. Declaro que li o manual do equipamento (quando houver) e que estou ciente de que eu e o EES do qual faço parte nos responsabilizamos pelo equipamento, reparando qualquer avaria, defeito, uso indevido ou reposição de peça que se faça necessária, antes da devolução, e sem ônus para a Associação Utopia. O equipamento estará liberado(s) para uso a partir do dia da realização deste empréstimo.",
+        "detalhes": [
+            {
+               "NúmerodePatrimônio": "XXXX"
+            }
+        ],
+        "preco": 99.99
+    },
+    {
+        "id": 17,
+        "imagem": "img/bici_eletrica.png",
+        "nome": "Bicicleta elétrica 1",
+       "principal_caracteristica": "NÚMERO PATRIMÔNIO: XXXX",
+        "descricao": "A associada(o) e representante do Empreendimento Econômico Solidário (ESS) denominado: Associação Utopia - Produtos e Serviços para o Bem Viver. Declara que está em dia com sua participação e contribuição financeira obrigatórias (previstas no Artigo 6 e 9 do Regimento Interno) e que receberá, a título de empréstimo, da Associação Utopia este equipamento. Declaro que o equipamento aqui selecionado será vistoriado por mim e que está em perfeito estado no ato do empréstimo. Declaro que li o manual do equipamento (quando houver) e que estou ciente de que eu e o EES do qual faço parte nos responsabilizamos pelo equipamento, reparando qualquer avaria, defeito, uso indevido ou reposição de peça que se faça necessária, antes da devolução, e sem ônus para a Associação Utopia. O equipamento estará liberado(s) para uso a partir do dia da realização deste empréstimo.",
+        "detalhes": [
+            {
+                "NúmerodePatrimônio": "XXXX"
+            }
+        ],
+        "preco": 99.99
+    },
+    {
+        "id": 17,
+        "imagem": "img/bici_eletrica.png",
+        "nome": "Bicicleta elétrica 2",
+       "principal_caracteristica": "NÚMERO PATRIMÔNIO: XXXX",
+        "descricao": "A associada(o) e representante do Empreendimento Econômico Solidário (ESS) denominado: Associação Utopia - Produtos e Serviços para o Bem Viver. Declara que está em dia com sua participação e contribuição financeira obrigatórias (previstas no Artigo 6 e 9 do Regimento Interno) e que receberá, a título de empréstimo, da Associação Utopia este equipamento. Declaro que o equipamento aqui selecionado será vistoriado por mim e que está em perfeito estado no ato do empréstimo. Declaro que li o manual do equipamento (quando houver) e que estou ciente de que eu e o EES do qual faço parte nos responsabilizamos pelo equipamento, reparando qualquer avaria, defeito, uso indevido ou reposição de peça que se faça necessária, antes da devolução, e sem ônus para a Associação Utopia. O equipamento estará liberado(s) para uso a partir do dia da realização deste empréstimo.",
+        "detalhes": [
+            {
+                "NúmerodePatrimônio": "XXXX"
+            }
+        ],
+        "preco": 99.99
+    },
+    {
+        "id": 18,
+        "imagem": "img/impressoraEpson.png",
+        "nome": "Impressora Colorida Epson L3210",
+       "principal_caracteristica": "NÚMERO PATRIMÔNIO: XXXX",
+        "descricao": "A associada(o) e representante do Empreendimento Econômico Solidário (ESS) denominado: Associação Utopia - Produtos e Serviços para o Bem Viver. Declara que está em dia com sua participação e contribuição financeira obrigatórias (previstas no Artigo 6 e 9 do Regimento Interno) e que receberá, a título de empréstimo, da Associação Utopia este equipamento. Declaro que o equipamento aqui selecionado será vistoriado por mim e que está em perfeito estado no ato do empréstimo. Declaro que li o manual do equipamento (quando houver) e que estou ciente de que eu e o EES do qual faço parte nos responsabilizamos pelo equipamento, reparando qualquer avaria, defeito, uso indevido ou reposição de peça que se faça necessária, antes da devolução, e sem ônus para a Associação Utopia. O equipamento estará liberado(s) para uso a partir do dia da realização deste empréstimo.",
+        "detalhes": [
+            {
+               "NúmerodePatrimônio": "XXXX"
+            }
+        ],
+        "preco": 99.99
+    },
+    {
+        "id": 19,
+        "imagem": "img/bici_caloi.png",
+        "nome": "Bicicleta Caloi Convencional",
+      "principal_caracteristica": "NÚMERO PATRIMÔNIO: XXXX",
+        "descricao": "A associada(o) e representante do Empreendimento Econômico Solidário (ESS) denominado: Associação Utopia - Produtos e Serviços para o Bem Viver. Declara que está em dia com sua participação e contribuição financeira obrigatórias (previstas no Artigo 6 e 9 do Regimento Interno) e que receberá, a título de empréstimo, da Associação Utopia este equipamento. Declaro que o equipamento aqui selecionado será vistoriado por mim e que está em perfeito estado no ato do empréstimo. Declaro que li o manual do equipamento (quando houver) e que estou ciente de que eu e o EES do qual faço parte nos responsabilizamos pelo equipamento, reparando qualquer avaria, defeito, uso indevido ou reposição de peça que se faça necessária, antes da devolução, e sem ônus para a Associação Utopia. O equipamento estará liberado(s) para uso a partir do dia da realização deste empréstimo.",
+        "detalhes": [
+            {
+                "NúmerodePatrimônio": "XXXX"
+            }
+        ],
+        "preco": 99.99
+    },
+    {
+        "id": 20,
+        "imagem": "img/projetor_tomate.png",
+        "nome": "Projetor Multimidia Tomate",
+       "principal_caracteristica": "NÚMERO PATRIMÔNIO: XXXX",
+        "descricao": "A associada(o) e representante do Empreendimento Econômico Solidário (ESS) denominado: Associação Utopia - Produtos e Serviços para o Bem Viver. Declara que está em dia com sua participação e contribuição financeira obrigatórias (previstas no Artigo 6 e 9 do Regimento Interno) e que receberá, a título de empréstimo, da Associação Utopia este equipamento. Declaro que o equipamento aqui selecionado será vistoriado por mim e que está em perfeito estado no ato do empréstimo. Declaro que li o manual do equipamento (quando houver) e que estou ciente de que eu e o EES do qual faço parte nos responsabilizamos pelo equipamento, reparando qualquer avaria, defeito, uso indevido ou reposição de peça que se faça necessária, antes da devolução, e sem ônus para a Associação Utopia. O equipamento estará liberado(s) para uso a partir do dia da realização deste empréstimo.",
+        "detalhes": [
+            {
+                "NúmerodePatrimônio": "XXXX"
+            }
+        ],
+        "preco": 99.99
+    },
+    {
+        "id": 21,
+        "imagem": "img/caixa_xiaomi.png",
+        "nome": "Caixa de som portátil Xiaomi",
+       "principal_caracteristica": "NÚMERO PATRIMÔNIO: XXXX",
+        "descricao": "A associada(o) e representante do Empreendimento Econômico Solidário (ESS) denominado: Associação Utopia - Produtos e Serviços para o Bem Viver. Declara que está em dia com sua participação e contribuição financeira obrigatórias (previstas no Artigo 6 e 9 do Regimento Interno) e que receberá, a título de empréstimo, da Associação Utopia este equipamento. Declaro que o equipamento aqui selecionado será vistoriado por mim e que está em perfeito estado no ato do empréstimo. Declaro que li o manual do equipamento (quando houver) e que estou ciente de que eu e o EES do qual faço parte nos responsabilizamos pelo equipamento, reparando qualquer avaria, defeito, uso indevido ou reposição de peça que se faça necessária, antes da devolução, e sem ônus para a Associação Utopia. O equipamento estará liberado(s) para uso a partir do dia da realização deste empréstimo.",
+        "detalhes": [
+            {
+                "NúmerodePatrimônio": "XXXX"
+            }
+        ],
+        "preco": 99.99
+    }
+]

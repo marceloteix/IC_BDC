@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, viewport-fit=cover">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <!-- Color theme for statusbar (Android only) -->
+    <meta name="theme-color" content="#2196f3">
+    <!-- Your app title -->
+    <title>Template Tab</title>
+    <!-- Path to Framework7 Library Bundle CSS -->
+    <link rel="stylesheet" href="lib/framework7-bundle.min.css">
+    <!-- CSS PERSONALIZADO PARA MENU -->
+    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="css/detalhes.css">
+    <link rel="stylesheet" href="css/carrinho.css">
+    <!-- Ícones Material Design -->
+    <link rel="stylesheet" href="css/materialdesignicons.min.css">
+    <!-- Ícones remixicon -->
+    <link rel="stylesheet" href="css/remixicon/remixicon.css">
+    <!-- jQuery UI -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.css">
+    <!-- Flatpickr CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.0.0/dist/umd/supabase.min.js"></script>
+
+    <!-- Custom CSS for responsive Flatpickr -->
+    <style>
+        /* Estilo para o botão "Selecionar Data" */
+        .flatpickr-container {
+            display: none; /* Inicialmente escondido */
+            position: absolute;
+            z-index: 1000;
+            background: white;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .flatpickr-container input {
+            width: 100%;
+            box-sizing: border-box;
+        }
+
+        /* Ajuste o calendário para ocupar toda a largura da tela em dispositivos móveis */
+        @media (max-width: 768px) {
+            .flatpickr-container {
+                width: calc(100% - 20px);
+                left: 10px;
+            }
+        }
+
+        /* Ajuste o calendário para largura de tela em dispositivos maiores */
+        @media (min-width: 769px) {
+            .flatpickr-container {
+                width: 300px; /* Ajuste conforme necessário */
+                left: 0;
+            }
+        }
+    </style>
+
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.0.0/dist/supabase.min.js"></script>
+
+
+</head>
+
+<body>
+    <!-- App root element -->
+    <div id="app">
+        <!-- Your main view, should have "view-main" class -->
+        <div class="view view-main">
+            <!-- Initial Page, "data-name" contains page name -->
+            <div data-name="carrinho" class="page color-theme-blue">
+                <div class="nav-top cart">
+                    <a href="/index/"><i class="ri-arrow-left-s-line"></i></a>
+                    <strong><i class="ri-shopping-cart-2-line"></i>Carrinho</strong>
+                    <a href="#" class="link popover-open" data-popover=".popover-menu"><i class="ri-more-fill"></i></a>
+                </div>
+                <div class="popover popover-menu">
+                    <div class="popover-angle"></div>
+                    <div class="popover-inner">
+                        <div class="list">
+                            <ul>
+                                <li>
+                                    <a id="esvaziar" href="#" class="list-button popover-close">
+                                        <i class="mdi mdi-broom"></i>Esvaziar
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <!-- TAB BAR-->
+                <div id="toolbarCheckout" class="toolbar toolbar-bottom">
+                    <div class="toolbar-inner display-flex align-items-center justify-content-center">
+                        <div class="flex-100">
+                            <button id="botaoAlugar" class="add-cart">Emprestar</button>
+                        </div>
+                    </div>
+                </div>
+                <!-- Scrollable page content -->
+                <div class="page-content">
+                    <div id="listaCarrinho">
+                        <!-- ITEM DO CARRINHO -->
+                        <div class="item-carrinho">
+                            <div class="area-img">
+                                <img src="img/default.png">
+                            </div>
+                            <div class="area-details">
+                                <div class="sup">
+                                    <span class="name-prod">
+                                        Bolsa/Case para câmera
+                                    </span>
+                                    <a class="delete-item" href="#">
+                                        <i class="mdi mdi-close"></i>
+                                    </a>
+                                </div>
+                                <div class="middle">
+                                    <span>1 TB</span>
+                                </div>
+                                <div class="preco-quantidade">
+                                    <span>R$ 99.99</span>
+                                    <div class="count">
+                                        <!-- Botão "Selecionar Data" -->
+                                        <button class="selecionar-data" data-index="0">Selecionar Data</button>
+                                        <!-- Flatpickr Container -->
+                                        <div class="flatpickr-container" id="flatpickr-0">
+                                            <input type="text" placeholder="Selecione a data" />
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- ITEM DO CARRINHO -->
+                        <div class="item-carrinho">
+                            <div class="area-img">
+                                <img src="img/default.png">
+                            </div>
+                            <div class="area-details">
+                                <div class="sup">
+                                    <span class="name-prod">
+                                        Câmera Canon EOS Revel...
+                                    </span>
+                                    <a class="delete-item" href="#">
+                                        <i class="mdi mdi-close"></i>
+                                    </a>
+                                </div>
+                                <div class="middle">
+                                    <span>1 TB</span>
+                                </div>
+                                <div class="preco-quantidade">
+                                    <span>R$ 99.99</span>
+                                    <div class="count">
+                                        <!-- Botão "Selecionar Data" -->
+                                        <button class="selecionar-data" data-index="1">Selecionar Data</button>
+                                        <!-- Flatpickr Container -->
+                                        <div class="flatpickr-container" id="flatpickr-1">
+                                            <input type="text" placeholder="Selecione a data" />
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Framework7 Library Bundle -->
+        <script src="lib/framework7-bundle.min.js"></script>
+       
+        <!-- Custom JS -->
+        <script src="js/carrinho.js"></script>
+        <!-- Flatpickr JS -->
+        <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
+        <!-- Flatpickr Locale PT-BR -->
+        <script src="https://cdn.jsdelivr.net/npm/flatpickr/dist/l10n/pt.js"></script>
+        <!-- Inclua o script Supabase -->
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@1.28.5/dist/umd/supabase.min.js"></script>
+    <!-- Inclua o arquivo JavaScript -->
+    <script src="js/supabase.js"></script>
+    </div>
+
+</body>
+
+</html>

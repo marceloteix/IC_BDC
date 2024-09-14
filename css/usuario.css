@@ -1,0 +1,91 @@
+:root {
+    --branco: #ffff;
+    --gelo: #f1f1f1;
+    --laranja: #ffa500;
+    --indigo: #4B0082;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: var(--gelo);
+    color: var(--indigo);
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: var(--indigo);
+    color: var(--branco);
+    padding: 10px;
+}
+
+.navbar .title {
+    font-size: 1.5em;
+}
+
+.page-content {
+    padding: 20px;
+}
+
+.block {
+    background-color: var(--branco);
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.user-info p {
+    margin: 10px 0;
+}
+
+.button {
+    background-color: var(--laranja);
+    color: var(--branco);
+    border: none;
+    border-radius: 4px;
+    padding: 10px 15px;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: darkorange;
+}
+
+.aviso-contribuicao {
+    background-color: var(--gelo);
+    border: 1px solid red;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+
+.emprestados-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.emprestados-list li {
+    background-color: var(--branco);
+    border-radius: 4px;
+    margin-bottom: 10px;
+    padding: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+
+.item-action button {
+    background-color: var(--laranja);
+    color: var(--branco);
+    border: none;
+    border-radius: 4px;
+    padding: 5px 10px;
+    cursor: pointer;
+    margin-right: 5px;
+}
+
+.item-action button:hover {
+    background-color: darkorange;
+}

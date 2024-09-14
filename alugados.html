@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <!-- Required meta tags-->
+    <meta charset="utf-8">
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, viewport-fit=cover">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <!-- Color theme for statusbar (Android only) -->
+    <meta name="theme-color" content="#2196f3">
+    <!-- Your app title -->
+    <title>Equipamentos Emprestados</title>
+    <!-- Path to Framework7 Library Bundle CSS -->
+    <link rel="stylesheet" href="lib/framework7-bundle.min.css">
+    <!-- CSS PERSONALIZADO -->
+    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="css/detalhes.css">
+    <link rel="stylesheet" href="css/alugados.css">
+    <link rel="stylesheet" href="css/carrinho.css">
+    <!--Ícones Material Design-->
+    <link rel="stylesheet" href="css/materialdesignicons.min.css">
+    <!--Ícones remixicon-->
+    <link rel="stylesheet" href="css/remixicon/remixicon.css">
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.0/dist/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.0.0/dist/supabase.min.js"></script>
+    <script src="js/supabase.js"></script> <!-- Certifique-se de que esse caminho está correto -->
+    <script src="js/alugados.js"></script> <!-- Certifique-se de que esse caminho está correto -->
+    <script type="module" src="/js/alugados.js"></script>
+    
+</head>
+<body>
+    <div id="app">
+        <div class="view view-main">
+            <div data-name="alugados" class="page">
+                <div class="navbar">
+                    <div class="navbar-inner">
+                        <div class="title" style="margin: auto;">Equipamentos Emprestados</div>
+                    </div>
+                </div>
+                <div class="page-content" style="margin-top: 25px;">
+                    <div class="list no-hairlines-md">
+                        <ul id="alugados-list">
+                            <!-- Conteúdo será carregado pelo JavaScript -->
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script type="text/javascript" src="lib/framework7-bundle.min.js"></script>
+    <script type="text/javascript" src="lib/jquery-3.7.0.min.js"></script>    
+    <script type="text/javascript" src="js/routes.js"></script>
+    <script src="cordova.js"></script>
+    <script type="text/javascript" src="js/alugados.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@1.28.5/dist/umd/supabase.min.js"></script>
+    <!-- Inclua o arquivo JavaScript -->
+    <script src="js/supabase.js"></script>
+</body>
+</html>
+
